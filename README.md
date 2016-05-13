@@ -6,7 +6,7 @@ https://msuppo.shinyapps.io/shiny/
 
 Rpresentation in my Rpubs:
 
-http://rpubs.com/msuppo/
+http://rpubs.com/msuppo/180624
 
 
 MSUPPO
