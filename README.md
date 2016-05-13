@@ -8,4 +8,4 @@ https://msuppo.shinyapps.io/shiny/
 
 Rpresentation in my Rpubs:
 
-(http://rpubs.com/msuppo/180409)
+http://rpubs.com/msuppo/
