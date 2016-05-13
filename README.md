@@ -2,11 +2,11 @@
 
 ShinyApp:
 
-        https://msuppo.shinyapps.io/shiny/
+https://msuppo.shinyapps.io/shiny/
 
 Rpresentation in my Rpubs:
 
-        http://rpubs.com/msuppo/
+http://rpubs.com/msuppo/
 
 
 MSUPPO
